@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Three dogs laughing</string>
+    <string name="affirmation2">Tree Squirrel </string>
+    <string name="affirmation3">Wild in Berkeley</string>
+    <string name="affirmation4">Ducks and a Rabbit</string>
+    <string name="affirmation5">Cute Dog exist in the planet</string>
+    <string name="affirmation6">The Albino wild</string>
+    <string name="affirmation7">Cutest Cat exist</string>
+    <string name="affirmation8">The Ugly Cat</string>
+    <string name="affirmation9">Playful Cat</string>
+    <string name="affirmation10">The Hungry Dog</string>
+</resources>
